@@ -1,0 +1,10 @@
+D:\gotest\game\Client\bin\Debug\Client.exe.config
+D:\gotest\game\Client\bin\Debug\Client.exe
+D:\gotest\game\Client\bin\Debug\Client.pdb
+D:\gotest\game\Client\obj\Debug\ZinxClient.csproj.AssemblyReference.cache
+D:\gotest\game\Client\obj\Debug\Client.Home.resources
+D:\gotest\game\Client\obj\Debug\Client.Properties.Resources.resources
+D:\gotest\game\Client\obj\Debug\ZinxClient.csproj.GenerateResource.cache
+D:\gotest\game\Client\obj\Debug\ZinxClient.csproj.CoreCompileInputs.cache
+D:\gotest\game\Client\obj\Debug\Client.exe
+D:\gotest\game\Client\obj\Debug\Client.pdb
